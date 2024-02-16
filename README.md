@@ -24,7 +24,7 @@
 
 
 
-<H1>TECH STACK
+<H1>TECH STACK</H1>
 <OL>
 <LI>javascript</LI>
   <li>node js</li>
@@ -33,4 +33,4 @@
   <li>tailwind</li>
   <li>ejs</li>
   
-</OL></H1>
+</OL>
